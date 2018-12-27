@@ -8,7 +8,8 @@
   </a>
   <a href="https://coveralls.io/github/devconcept/ng-shopping-cart?branch=master">
     <img alt="Code coverage" src="https://coveralls.io/repos/github/devconcept/ng-shopping-cart/badge.svg?branch=master">
-  </a> 
+  </a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fdevconcept%2Fng-shopping-cart?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdevconcept%2Fng-shopping-cart.svg?type=shield"/></a>
+
   <img alt="Npm version" src="https://img.shields.io/npm/v/ng-shopping-cart.svg">
 </p>
 
@@ -95,3 +96,6 @@ Ideas and suggestions are always welcome. You can also contribute. Check the [co
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdevconcept%2Fng-shopping-cart.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdevconcept%2Fng-shopping-cart?ref=badge_large)
